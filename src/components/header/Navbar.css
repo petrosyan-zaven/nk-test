@@ -1,0 +1,8 @@
+.NavBar a {
+    padding: 7px 13px;
+    font-size: 18px;
+}
+
+.NavBar a .active {
+    color: brown;
+}

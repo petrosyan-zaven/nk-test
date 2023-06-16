@@ -1,0 +1,31 @@
+.employ {
+    position: relative;
+}
+
+.form-employ {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 30px;
+}
+
+.form-employ input {
+    width: 300px;
+    height: 20px;
+    border: none;
+}
+
+.form-employ button {
+    width: 50px;
+}
+
+.delete {
+    width: 50px;
+    position: absolute;
+    top: 175px;
+    left: 130px;
+}
+
+.delete:hover {
+    background: red;
+}
