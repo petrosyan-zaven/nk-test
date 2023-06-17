@@ -2,7 +2,7 @@
     margin-top: 20px;
 }
 
-.cart {
+.Home .cart {
     width: 200px;
     height: 50px;
     margin: 10px;
@@ -13,7 +13,7 @@
     border-radius: 7px;
 }
 
-.cart:hover {
+.Home .cart:hover {
     cursor: pointer;
     background: rgb(179, 239, 241);
 }

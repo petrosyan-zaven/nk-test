@@ -33,7 +33,7 @@ function CreatTask() {
     });
     console.log(task, "a");
 
-    fetch("https://rocky-temple-83495.herokuapp.com/task", {
+    fetch("https://rocky-temple-83495.herokuapp.com/tasks", {
       method: "POST",
       headers: headers,
       body: JSON.stringify(task),
